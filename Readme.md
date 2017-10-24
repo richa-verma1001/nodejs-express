@@ -1,5 +1,5 @@
 # Starting application
-node index.js
+node index.js   or npm start
 
 # About
 Basic app that shows runing node with express to host your http server
